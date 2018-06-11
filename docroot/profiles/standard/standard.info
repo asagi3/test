@@ -1,5 +1,5 @@
 name = Standard
-description = Install with commonly used features pre-configured---jayachandra-ci-cd-test.
+description = Install with commonly used features pre-configured---jayachandra-ci-cd-test final.
 version = VERSION
 core = 7.x
 dependencies[] = block
